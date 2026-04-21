@@ -1,4 +1,4 @@
-package demo.java;
+package demo.data;
 
 public class Corso(){
     public String nome;
